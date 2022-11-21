@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkblog"]=self["webpackChunkblog"]||[]).push([[72],{8072:function(t,e,n){n.r(e),n.d(e,{default:function(){return c}});var u=function(){var t=this,e=t._self._c;return e("div",{staticClass:"home"})},l=[],r={asyncData({store:t,route:e,context:n}){n&&(n.title="幻影旋风的博客")},data(){return{}},mounted(){document.title="幻影旋风的博客"}},s=r,a=n(1001),o=(0,a.Z)(s,u,l,!1,null,"7918de02",null),c=o.exports}}]);
+//# sourceMappingURL=72.839f8486.js.map
